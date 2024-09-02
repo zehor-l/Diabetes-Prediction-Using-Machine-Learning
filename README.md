@@ -10,7 +10,7 @@ Support Vector Machine (SVM): The core machine learning algorithm used to classi
 Data Preprocessing: Includes steps like handling missing data, feature scaling, and data standardization.
 Model Evaluation: Assess the model’s accuracy on both training and testing datasets.
 
-#### All steps of the project, including data preprocessing, model training, evaluation, and prediction, are thoroughly explained in the accompanying Google Colab notebook. Make sure to follow the instructions provided in the code file.
+#### All steps of the project are thoroughly explained in the accompanying Google Colab notebook. 
 
 ## Contributing 🤝
 Feel free to submit issues, fork the repository, and send pull requests. Contributions are welcome!
